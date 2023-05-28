@@ -1,6 +1,6 @@
 # i Guide You
 
-[專題成品](https://github.com/Takuyatsai/iGuideU/blob/main/%E5%A4%A7%E5%B0%88%E5%B0%88%E9%A1%8C01.png)
+![image](https://github.com/Takuyatsai/iGuideU/blob/main/%E5%A4%A7%E5%B0%88%E5%B0%88%E9%A1%8C01.png)
 
 這是大學的專題作品，作品方向是汽車的物聯網應用，目標是要模擬運用手機觀察汽車水箱的偵測狀況。
 
